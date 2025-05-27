@@ -1,0 +1,5 @@
+D 'qcount': Fit quantile regression models for count data Use qcount With STATA 19
+D
+F qcount.ado
+F qcount_mfx.ado
+F qcount.hlp

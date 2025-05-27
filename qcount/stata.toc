@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p qcount Fit quantile regression models for count data Use qcount With STATA 19
